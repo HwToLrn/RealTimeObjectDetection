@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.03705874-2692-11ec-89a3-bc542f831b6f.jpg</filename>
+	<path>C:\Users\pksmb\Desktop\jupyter\Vision\Detection\RealTimeObjectDetection_with_TF_OpenCV\Tensorflow\workspace\images\collectedimages\yes.03705874-2692-11ec-89a3-bc542f831b6f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>YES</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>464</ymin>
+			<xmax>359</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

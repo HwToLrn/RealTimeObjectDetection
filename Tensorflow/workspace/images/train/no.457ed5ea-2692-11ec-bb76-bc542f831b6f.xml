@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.457ed5ea-2692-11ec-bb76-bc542f831b6f.jpg</filename>
+	<path>C:\Users\pksmb\Desktop\jupyter\Vision\Detection\RealTimeObjectDetection_with_TF_OpenCV\Tensorflow\workspace\images\collectedimages\no.457ed5ea-2692-11ec-bb76-bc542f831b6f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>758</xmin>
+			<ymin>425</ymin>
+			<xmax>915</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

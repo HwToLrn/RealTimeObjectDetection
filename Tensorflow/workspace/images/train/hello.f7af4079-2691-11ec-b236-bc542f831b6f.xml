@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.f7af4079-2691-11ec-b236-bc542f831b6f.jpg</filename>
+	<path>C:\Users\pksmb\Desktop\jupyter\Vision\Detection\RealTimeObjectDetection_with_TF_OpenCV\Tensorflow\workspace\images\collectedimages\hello.f7af4079-2691-11ec-b236-bc542f831b6f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>330</ymin>
+			<xmax>597</xmax>
+			<ymax>702</ymax>
+		</bndbox>
+	</object>
+</annotation>
